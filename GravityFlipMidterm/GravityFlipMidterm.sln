@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GravityFlipMidterm", "GravityFlipMidterm.csproj", "{4AD2AAFD-7B1C-BBEF-EEB0-3193C5BC6DCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GravityFlipMidterm.Editor", "GravityFlipMidterm.Editor.csproj", "{4A2483C3-F1BF-5CBD-C0A4-F07604D35DFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AD2AAFD-7B1C-BBEF-EEB0-3193C5BC6DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AD2AAFD-7B1C-BBEF-EEB0-3193C5BC6DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AD2AAFD-7B1C-BBEF-EEB0-3193C5BC6DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AD2AAFD-7B1C-BBEF-EEB0-3193C5BC6DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A2483C3-F1BF-5CBD-C0A4-F07604D35DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A2483C3-F1BF-5CBD-C0A4-F07604D35DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A2483C3-F1BF-5CBD-C0A4-F07604D35DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A2483C3-F1BF-5CBD-C0A4-F07604D35DFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
